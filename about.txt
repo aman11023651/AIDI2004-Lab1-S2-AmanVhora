@@ -1,0 +1,3 @@
+Name: Aman Vhora
+Course: AIDI 2004 - AI In Enterprise Applications
+Lab: Lab 1 - Git Version Control
